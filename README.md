@@ -24,7 +24,7 @@
 
 <br />
 
-## Design
+## Tools
 
 <br>
 
@@ -35,6 +35,7 @@
 - [DAOhaus](https://daohaus.club/) 
 - [DAOstack](https://daostack.io/) 
 - [DAO Metrics](https://daometrics.com/)
+- [Baal Moloch v3](https://baal-docs.vercel.app/)
 
 
 
