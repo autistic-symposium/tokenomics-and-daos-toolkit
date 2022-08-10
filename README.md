@@ -78,6 +78,7 @@
 
 <br>
 
+- [DAO Legal Entity Matrix by Paradigm](https://daos.paradigm.xyz/)
 - [LAO Templates](https://github.com/DAOresearch/lao-templates)
 - [Etherize](https://etherize.io/)
 - [LexDAO](https://lexdao.org/)
