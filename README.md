@@ -2,6 +2,16 @@
 
 <br>
 
+## Interesting articles
+
+<br>
+
+* [Packy McCormick](https://www.notboring.co/p/go-fork-yourself)
+
+
+<br>
+
+
 ## Community 
 
 <br>
