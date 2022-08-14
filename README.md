@@ -6,7 +6,7 @@
 
 <br>
 
-* [Packy McCormick](https://www.notboring.co/p/go-fork-yourself)
+* [Go fork yourself, by Packy McCormick](https://www.notboring.co/p/go-fork-yourself)
 
 
 <br>
