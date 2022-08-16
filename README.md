@@ -1,8 +1,24 @@
-# Awesome DAOs
+# Awesome Tokenomics
 
 <br>
 
-## Interesting articles
+## Curve war
+
+<br>
+
+* [Navigating governance designs in crypto economies](https://medium.com/@karansirdesai28/navigating-governance-designs-in-crypto-economies-24170e04e391)
+
+
+<br>
+
+----
+
+
+## DAOs
+
+<br>
+
+### Interesting articles
 
 <br>
 
@@ -12,7 +28,7 @@
 <br>
 
 
-## Community 
+### Community 
 
 <br>
 
@@ -22,7 +38,7 @@
 
 <br>
 
-## News
+### News
 
 <br>
 
@@ -34,7 +50,7 @@
 
 <br />
 
-## Tools
+### Tools
 
 <br>
 
@@ -51,7 +67,7 @@
 
 <br>
 
-## Governance 
+### Governance 
 
 <br>
 
@@ -62,7 +78,7 @@
 
 <br>
 
-## Tokens 
+### Tokenization 
 
 <br>
 
@@ -73,7 +89,7 @@
 
 <br>
 
-## Data
+### Data
 
 <br>
 
@@ -84,7 +100,7 @@
 <br>
 
 
-## Legals 
+### Legals 
 
 <br>
 
@@ -99,7 +115,7 @@
 
 <br>
 
-## Decentralization
+### Decentralization
 
 <br>
 
