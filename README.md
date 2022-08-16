@@ -2,7 +2,20 @@
 
 <br>
 
-## Curve war
+## Tokenomics how-to
+
+<br>
+
+* [TokenEconomy book](https://github.com/sherminvo/TokenEconomyBook/wiki)
+* [Tokenization explained by cointelegraph](https://cointelegraph.com/explained/tokenization-explained)
+* [Thoughts on tokens by Balaji](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
+* [Intro to token distribution mechanisms](https://smithandcrown.com/research/introduction-to-token-distribution-mechanisms/)
+* [How new tokens are launched by Nansen](https://www.nansen.ai/research/how-new-tokens-are-launched)
+
+
+<br>
+
+## Curve wars
 
 <br>
 
