@@ -1,4 +1,4 @@
-# Awesome Tokenomics
+# Awesome Tokenomics and DAOs
 
 <br>
 
