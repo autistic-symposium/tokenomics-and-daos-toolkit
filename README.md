@@ -2,7 +2,57 @@
 
 <br>
 
-## Tokenomics how-to
+----
+
+## Tokenomics Evaluation Framework
+
+<br>
+
+
+### Supply
+
+1. Based on supply alone, will this token hold or increase it’s value? Or will that value be inflated away?
+2. How many tokens exist today?
+3. How many will ever exist? (supply cap)
+4. Is the issuance rate fixed or variable? If variable, what are the factors that determine (and can influence) issuance rate?
+5. How was supply initially allocated among investors, community, core team, etc? Are there any group(s) with a significant holding that could drive material selling pressure upon vesting?
+6. What is the vesting schedule for the largest holders?
+
+<br>
+
+### Demand 
+
+
+<br>
+
+1. Why would someone hold this token?
+2. Is there an opportunity to earn additional return by yield farming?
+3. Are earnings/fees generated from the protocol distributed back to token holders?
+4. Does any rebasing take place as the protocol inflates?
+5. Is there a lockup in program in place?
+6. If there is a lockup program in place, what is the incremental value of rewards and what are the requirements to earn those rewards?
+7. What % of total tokens outstanding are locked up?
+8. How much selling pressure is generated upon lockup expiration?
+9. Are there other non-monetary benefits to staking + locking up tokens (besides increasing voting power)?
+
+
+
+<br>
+
+----
+
+## Tools
+
+<br>
+
+* [Harmony Economic Model](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
+
+
+---------------------
+
+<br>
+
+## Articles
 
 <br>
 
@@ -15,7 +65,7 @@
 
 <br>
 
-## Curve wars
+### The curve wars
 
 <br>
 
