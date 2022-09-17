@@ -1,4 +1,4 @@
-# Awesome Tokenomics and DAOs
+# 🪙🏴‍☠️ Awesome Tokenomics and DAOs
 
 <br>
 
