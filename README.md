@@ -41,11 +41,12 @@
 
 ----
 
-## Tools
+## Tools and study examples
 
 <br>
 
 * [Harmony Economic Model](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
+* [Convex Finance Tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
 
 
 ---------------------
@@ -61,14 +62,6 @@
 * [Thoughts on tokens by Balaji](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
 * [Intro to token distribution mechanisms](https://smithandcrown.com/research/introduction-to-token-distribution-mechanisms/)
 * [How new tokens are launched by Nansen](https://www.nansen.ai/research/how-new-tokens-are-launched)
-
-
-<br>
-
-### The curve wars
-
-<br>
-
 * [Navigating governance designs in crypto economies](https://medium.com/@karansirdesai28/navigating-governance-designs-in-crypto-economies-24170e04e391)
 
 
