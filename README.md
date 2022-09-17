@@ -63,6 +63,7 @@
 * [Intro to token distribution mechanisms](https://smithandcrown.com/research/introduction-to-token-distribution-mechanisms/)
 * [How new tokens are launched by Nansen](https://www.nansen.ai/research/how-new-tokens-are-launched)
 * [Navigating governance designs in crypto economies](https://medium.com/@karansirdesai28/navigating-governance-designs-in-crypto-economies-24170e04e391)
+* [Tokenomics red flags](https://medium.com/coinmonks/tokenomics-red-flags-you-cant-afford-to-ignore-part-i-1874f251c4db)
 
 
 <br>
