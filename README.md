@@ -53,7 +53,7 @@
 
 <br>
 
-## Articles
+## Articles on tokenomics
 
 <br>
 
@@ -68,6 +68,15 @@
 * [On the Meme of Market caps and Unlocks, by Cobie](https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks)
 
 <br>
+
+---
+
+## Game theory
+
+<br>
+
+* [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)
+
 
 ----
 
