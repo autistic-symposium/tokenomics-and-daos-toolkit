@@ -6,8 +6,9 @@
 
 <br>
 
-* **[tokenomics](tokenomics)**
 * **[doge](doge)**
+* **[tokenomics](tokenomics)**
+* **[futarchy](futarchy)**
 * **[daos](daos)**
 
 <br>
