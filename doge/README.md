@@ -20,4 +20,5 @@
 * **[⚫ tulsi gabbard on war, politics, and the military, by. l. fridman (2024)](https://www.youtube.com/watch?v=_El9riy9Zjw)**
 * **[⚫ joe rogan and marc andreessen on angels, demons, redemption, and the future (2024)](https://www.youtube.com/watch?v=ye8MOfxD5nU)**
 * **[⚫ joe rogan and jd vance on kids, rationality on politics, and the future (2024)](https://www.youtube.com/watch?v=fRyyTAs1XY8)**
+* **[⚫ javier milei on the free market revolution, by the economist (2024)](https://www.economist.com/the-americas/2024/11/28/javier-milei-free-market-revolutionary)**
 * **[⚫ anarcho tyranny, by s. francis (1994)](https://chroniclesmagazine.org/view/anarcho-tyranny-u-s-a/)**
