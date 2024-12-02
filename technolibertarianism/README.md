@@ -13,8 +13,8 @@
 * **[⚫ joe rogan and jd vance on kids, rationality on politics, and the future (2024)](https://www.youtube.com/watch?v=fRyyTAs1XY8)**
 * **[⚫ javier milei on the free market revolution, by the economist (2024)](https://www.economist.com/the-americas/2024/11/28/javier-milei-free-market-revolutionary)**
 * **[⚫ marc andreessen's thread on tech and politics post-election (2024)](https://x.com/pmarca/status/1856443085473058964)**
-* **[⚫️ milton friedman on libertarianism, by take to the limits (2018)](https://youtube.com/playlist?list=PLKruweaZqDNfepaPWsDHTbju3gI72vsjH&feature=shared)
 * **[⚫️ the straussian moment, by p. thiel (2007)](https://archive.org/details/the-straussian-moment/page/214/mode/2up)**
+* **[⚫️ milton friedman on libertarianism, by take to the limits (2000)](https://youtube.com/playlist?list=PLKruweaZqDNfepaPWsDHTbju3gI72vsjH&feature=shared)**
 * **[⚫ anarcho tyranny, by s. francis (1994)](https://chroniclesmagazine.org/view/anarcho-tyranny-u-s-a/)**
 
 <br>
