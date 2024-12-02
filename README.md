@@ -2,11 +2,7 @@
 
 <br>
 
-### chapters
-
-<br>
-
-* **[⬛ department of government efficiency](doge)**
+* **[⬛ technolibertarianism](technolibertarianism)**
 * **[⬛ decentralized autonomous organizations](daos)**
 * **[⬛ futarchy and prediction markets](futarchy)**
 * **[⬛ ramblings on tokenomics](tokenomics)**
