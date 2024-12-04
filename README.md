@@ -13,3 +13,9 @@
 * **[⬛ decentralized autonomous organizations](daos)**
 * **[⬛ futarchy and prediction markets](futarchy)**
 * **[⬛ ramblings on tokenomics](tokenomics)**
+
+<br>
+
+<h4 align="center">  
+黄金時代を築く唯一の方法は、批判的思考を養うことです。批判的思考を養う唯一の方法は、自分の快適ゾーンから抜け出すことです。快適ゾーンから抜け出す唯一の方法は、不快な考えを熟考することです。不快な考えを熟考する唯一の方法は、批判的思考を養うことです。
+</h4>
