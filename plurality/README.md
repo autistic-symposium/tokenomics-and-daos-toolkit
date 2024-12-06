@@ -8,6 +8,6 @@
 
 <br>
 
-* **[infinite diversity in infinite combinations, by a. tang (2024)](https://www.youtube.com/watch?v=n3R4ze2hesk)**
-* **[plurality book, by  a. tang + e.g. weyl et al. (2024)](https://github.com/pluralitybook/plurality)**
-* **[the g0v manifesto (2019)](https://g0v.tw/intl/en/manifesto/en/)**
+* **[🟣 infinite diversity in infinite combinations, by a. tang (2024)](https://www.youtube.com/watch?v=n3R4ze2hesk)**
+* **[🟣 plurality book, by  a. tang + e.g. weyl et al. (2024)](https://github.com/pluralitybook/plurality)**
+* **[🟣 the g0v manifesto (2019)](https://g0v.tw/intl/en/manifesto/en/)**
