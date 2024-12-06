@@ -8,6 +8,7 @@
 
 ### 𝚌𝚑𝚊𝚙𝚝𝚎𝚛𝚜
 
+* **[⬛ plurality](plurality)**
 * **[⬛ technoliberalism](technoliberalism)**
 * **[⬛ technolibertarianism](technolibertarianism)**
 * **[⬛ decentralized autonomous organizations](daos)**
