@@ -29,6 +29,7 @@
 
 * **[paul atkins as sec chair](https://truthsocial.com/@realDonaldTrump/posts/113600319916325790)**
 * **[jared isaacman is leading nasa](https://x.com/realDonaldTrump/status/1864358177728516252?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)**
+* **[david sacks as ai and crypto czar](https://en.wikipedia.org/wiki/David_O._Sacks)**
 * **[gao.gov is on cobol...](https://www.gao.gov/products/gao-23-106821)**
 * **[brian armstrong's thread on align incentives toward fiscal discipline long term](https://x.com/brian_armstrong/status/1858023954776207730)**
 * **[ryan selkis' thread on trump's treasury secretary and team of rivals](https://x.com/twobitidiot/status/1858248993978884306)**
